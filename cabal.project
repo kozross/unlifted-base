@@ -1,0 +1,7 @@
+packages: ./unlifted-base.cabal
+
+documentation: true
+test-show-details: direct
+
+package unlifted-base
+  ghc-options: -Werror
